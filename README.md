@@ -1,5 +1,6 @@
-# Проверки для класса BooksCollector
-Сделано 16 проверок.
+# Юнит-тесты для класса BooksCollector
+main.py код класса BookCollector
+tests.py - 16 проверок, полностью покрывшие код класса.
 ### test_add_new_book_add_two_books
 Проверка добавления книги. Даже двух книг.
 ### test_books_rating_and_favorites_true
